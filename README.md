@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bedukmutu](https://bedukmutu.id/) and [PMB/Penamru Mahasiswa](https://pmb.utc-umy.id/)
 
-- 🌱 I’m currently learning **React Js, React Native, Tailwind, Docker, and GolangGolang**
+- 🌱 I’m currently learning **React Js, React Native, Tailwind, Docker, Blockchain and Golang**
 
 - 👯 I’m looking to collaborate on [Aset dan Simaku](https://simaku.net/)
 
