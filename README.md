@@ -11,8 +11,13 @@
 
 - 📫 How to reach me **hamroy1228@gmail.com**
 
+### 📫 Connect with me:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- [LinkedIn](https://linkedin.com/in/ilhamroy)  
+- [GitHub](https://github.com/hamroy)  
+- [Portfolio Website](https://hamroy.github.io/my-portofolio)  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
