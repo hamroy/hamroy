@@ -17,7 +17,7 @@
 <p align="left">
 - [LinkedIn](https://linkedin.com/in/ilhamroy)  
 - [GitHub](https://github.com/hamroy)  
-- [Portfolio Website](https://hamroy.github.io/my-portofolio)  
+- [Portfolio Website](https://hamroy.github.io)  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
